@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="200" height="200" viewBox="-100.0 -100.0 200 200" displayInline="False">
+<defs>
+</defs>
+<path d="M-40,-180 L-40,140 L-40,-180 L-24,-180 L-24,140 L-24,-180 L-8,-180 L-8,140 L-8,-180 L8,-180 L8,140 L8,-180 L24,-180 L24,140 L24,-180 L40,-180 L40,140 M-32,180 L-32,-140 L-32,180 L-16,180 L-16,-140 L-16,180 L0,180 L0,-140 L0,180 L16,180 L16,-140 L16,180 L32,180 L32,-140 L32,180 L48,180 L48,-140" stroke-width="0.202" stroke="black" fill-opacity="0" />
+</svg>
